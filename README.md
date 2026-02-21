@@ -1,5 +1,5 @@
 # Gibsontec7-
-All electronics dealership 
+All electronics dealership
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,7 +107,7 @@ All electronics dealership
         <div>
             <h2>Samsung Galaxy S23</h2>
             <p>Brand new, high performance phone.</p>
-            <a class="buy-button" href="https://wa.me/966123456789">Buy via WhatsApp</a>
+            <a class="buy-button" href="https://wa.me/254740866825">Buy via WhatsApp</a>
         </div>
     </div>
 
@@ -116,7 +116,7 @@ All electronics dealership
         <div>
             <h2>iPhone 14</h2>
             <p>Latest iPhone, excellent condition.</p>
-            <a class="buy-button" href="https://wa.me/966123456789">Buy via WhatsApp</a>
+            <a class="buy-button" href="https://wa.me/254740866825">Buy via WhatsApp</a>
         </div>
     </div>
 
@@ -125,15 +125,15 @@ All electronics dealership
         <div>
             <h2>Wireless Earbuds</h2>
             <p>High-quality sound, long battery life.</p>
-            <a class="buy-button" href="https://wa.me/966123456789">Buy via WhatsApp</a>
+            <a class="buy-button" href="https://wa.me/254740866825">Buy via WhatsApp</a>
         </div>
     </div>
 </div>
 
 <div class="container" id="contact">
     <h2>Contact Us</h2>
-    <p>WhatsApp: <a href="https://wa.me/966123456789">+966 123 456 789</a></p>
-    <p>Location: Jeddah, Al Safa</p>
+    <p>WhatsApp: <a href="https://wa.me/254740866825">+254 740 866 825</a></p>
+    <p>Location: Nairobi, Kenya</p>
 </div>
 
 <footer>
@@ -142,3 +142,4 @@ All electronics dealership
 
 </body>
 </html>
+
